@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GeekTime Demo.iml" filepath="$PROJECT_DIR$/.idea/GeekTime Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Head First/Head First.iml" filepath="$PROJECT_DIR$/Head First/Head First.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeekTime01/Ioc-container-overview/Ioc-container-overview.iml" filepath="$PROJECT_DIR$/GeekTime01/Ioc-container-overview/Ioc-container-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeekTime01/spring-bean/spring-bean.iml" filepath="$PROJECT_DIR$/GeekTime01/spring-bean/spring-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeekTime01/think-in-spring.iml" filepath="$PROJECT_DIR$/GeekTime01/think-in-spring.iml" />
+    </modules>
+  </component>
+</project>

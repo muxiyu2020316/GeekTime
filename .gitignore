@@ -1,0 +1,4 @@
+# Project exclude paths
+/GeekTime01/Ioc-container-overview/target/
+/GeekTime01/spring-bean/target/
+/out/

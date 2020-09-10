@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd" >
+    <import resource="LookUp.xml"/>
+    <bean id="userRepository" class="muxiyu.overview.dependency.repository.UserRepository" autowire="byType">
+        <!-- autowire="byType"  自定绑定 可以按照类型也可以按照名字-->
+    </bean>
+</beans>

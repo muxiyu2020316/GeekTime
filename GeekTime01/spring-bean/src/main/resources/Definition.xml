@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd" >
+   <!--导入第三方配置文件,重用之前的配置-->
+    <import resource="LookUp.xml"/>
+    <!--别名花的两种实现-->
+    <!--将spring 容器的User Bean 关联建立别名-->
+    <alias name="Prouser" alias="mxy-user"/>
+
+
+</beans>
